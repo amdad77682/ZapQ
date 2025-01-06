@@ -8,21 +8,21 @@
             "name": "lesson_game",
             "request": "launch",
             "type": "dart",
-            "program": "layout/main.dart"
+            "program": "pages/home.dart"
         },
         {
             "name": "lesson_game (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile",
-               "program": "layout/main.dart"
+               "program": "pages/home.dart"
         },
         {
             "name": "lesson_game (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release",
-               "program": "layout/main.dart"
+               "program": "pages/home.dart"
         }
     ]
 }
